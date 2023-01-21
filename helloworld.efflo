@@ -1,0 +1,9 @@
+// Hello World;
+ADD 72;ADD 101;ADD 108;ADD 108;
+ADD 111;ADD 44;ADD 32;ADD 87;
+ADD 111;ADD 114;ADD 108;ADD 100;
+ADD 33;ADD 10;
+// Reverse the stack;
+REVERSE;
+// Print every character;
+REPEAT_ALL PRINT_ASCII;
